@@ -1,0 +1,10 @@
+#dirs
+bin/
+.ignore/
+
+#types
+*.bak
+*.mdl2
+*.lua2
+*.cmd
+*.ps1
