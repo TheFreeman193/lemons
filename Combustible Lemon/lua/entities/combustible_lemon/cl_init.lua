@@ -1,0 +1,12 @@
+//////////////////////////////////////
+///////// Combustible Lemon //////////
+///// Developed By TheFreeman193 /////
+//////// Model By Cold Fusion ////////
+//// Released Under The GNU GPLv3 ////
+//////////////////////////////////////
+
+include('shared.lua')
+	
+function ENT:Draw()
+	self:DrawModel()
+end

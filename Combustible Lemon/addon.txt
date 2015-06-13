@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"Combustible Lemon"
+	"author_name"	"TheFreeman193/Cold Fusion"
+	"author_email"	"thefreeman193@aol.co.uk"
+	"version"		"1.2"
+	"up_date"	"17th June 2011"
+	"override"	"0"
+	"info"		"Inspired by Portal 2: A combustible lemon that burns your house down!"
+}
